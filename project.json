@@ -15,7 +15,8 @@
   ],
   "ProjectEntryItem": "Main.xaml",
   "Items": [
-    "Main.xaml"
+    "Main.xaml",
+    "序列1.xaml"
   ],
   "TargetFramework": ".NETFramework,Version=v4.6.2",
   "ProjectDependencies": [
@@ -1080,7 +1081,7 @@
       "InnerDependencies": []
     }
   ],
-  "LastModifyTime": "2022-03-08T14:13:19.4656954+08:00",
+  "LastModifyTime": "2022-03-08T14:13:27.8051619+08:00",
   "ProjectReferences": [],
   "TerminationHandler": null,
   "ExceptionHandler": null,
